@@ -15,7 +15,7 @@ const FileType = require('file-type')
 const yargs = require('yargs/yargs')
 const _ = require('lodash')
 const { Boom } = require('@hapi/boom')
-const PhoneNumber = require('awesome-phonenumber')
+const PhoneNumber = require('27840454677')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/myfunc')
 //=================================================//
